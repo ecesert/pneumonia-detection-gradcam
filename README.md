@@ -19,9 +19,8 @@ Dataset is downloaded via Kaggle API (credentials are not included in this repo)
 - Pneumonia Recall: ~0.95
 
 ## Training Metrics
-![Training Metrics]
+[Training Metrics]
 <img width="1900" height="620" alt="image" src="https://github.com/user-attachments/assets/1395c569-19f1-454c-85b6-07586314f179" />
-
 
 ## Confusion Matrix
 ![Confusion Matrix](assets/confusion_matrix.png)
