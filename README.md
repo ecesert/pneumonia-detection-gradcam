@@ -25,7 +25,7 @@ Dataset is downloaded via Kaggle API (credentials are not included in this repo)
 ![Confusion Matrix](assets/confusion_matrix.png)
 
 ## Grad-CAM Example
-<img width="772" height="808" alt="image" src="https://github.com/user-attachments/assets/d92de0dd-2221-4236-aa8c-ca57256eed35" />
+<img width="370" height="450" alt="image" src="https://github.com/user-attachments/assets/d92de0dd-2221-4236-aa8c-ca57256eed35" />
 
 ## How to Run (Colab)
 1. Install requirements
