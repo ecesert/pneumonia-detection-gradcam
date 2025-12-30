@@ -21,8 +21,6 @@ Dataset is downloaded via Kaggle API (credentials are not included in this repo)
 ## Training Metrics
 <img width="1900" height="620" alt="image" src="https://github.com/user-attachments/assets/1395c569-19f1-454c-85b6-07586314f179" />
 
-## Confusion Matrix
-![Confusion Matrix](assets/confusion_matrix.png)
 
 ## Grad-CAM Example
 <img width="370" height="450" alt="image" src="https://github.com/user-attachments/assets/d92de0dd-2221-4236-aa8c-ca57256eed35" />
